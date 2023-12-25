@@ -1,4 +1,4 @@
-# Test Automation Project: GO TO-U
+# Test Automation Project
 
 ## Installation
 - Install Python Version 3.9 
